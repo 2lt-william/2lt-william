@@ -1,6 +1,6 @@
 - 👷‍♂️ I'm currently working as Civil Engineer at Brazilian Army
-- 👨‍💻 I’m interested in Data Engineering
-- 💻 I’m currently learning about SQL, Python, Power BI, Data Modeling and Azure
+- 👨‍💻 I’m interested in Analytics Engineering
+- 💻 I’m currently learning about SQL, Python, Power BI, Data Modeling and Azure tools
 - 📫 How to reach me: https://www.linkedin.com/in/william-oliveira1990
 
 <!---
